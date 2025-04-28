@@ -1,0 +1,9 @@
+groq
+fastapi
+uvicorn
+python-dotenv
+sounddevice
+soundfile
+pydub
+pyaudio
+streamlit
