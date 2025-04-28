@@ -2,6 +2,10 @@
 
 A real-time voice-controlled AI assistant that allows natural language conversations through speech recognition and text-to-speech capabilities, powered by Groq's ultra-fast LLM inference.
 
+![image](https://github.com/user-attachments/assets/ba49290a-20be-43f5-b131-da3c134ad7bd)
+
+*Fig 1: AI VOICE ASSISTANT STREAMLIT UI*
+
 ## 🌟 **Features**
 
 - Voice Interaction: Speak naturally to the AI assistant
@@ -71,15 +75,15 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (git push origin feature/your-feature)
 5. Create a new Pull Request
 
-##📜 **License**
+## 📜 **License**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##🙏 **Acknowledgments**
+## 🙏 **Acknowledgments**
 
 - Groq for their amazing inference technology
 - Streamlit for the easy-to-use web framework
 - All open-source libraries used in this project
 
-##📧 **Contact**
+## 📧 **Contact**
 For questions or feedback, please open an issue on GitHub or contact the maintainer directly.
